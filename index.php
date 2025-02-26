@@ -272,7 +272,7 @@
                     <img src="image/wf_1-Photoroom.png" alt="Sample Image">
                 </div>
                 <div class="desc-box">
-                    <p>This is a description of the image, placed behind it.</p>
+                    <p>Best in test , crunchi, spicy, creamy.</p>
                 </div>
             </div>
 
